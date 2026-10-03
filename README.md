@@ -113,6 +113,11 @@ The dashboard contains:
 
 ---
 
+## 📷 Dashboard Preview
+
+<img width="1283" height="697" alt="Screenshot 2026-10-03 130531" src="https://github.com/user-attachments/assets/e4755d47-1577-4a74-a544-0305a0ef105c" />
+
+
 ## 📁 Project Structure
 
 ```
