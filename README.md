@@ -115,7 +115,10 @@ The dashboard contains:
 
 ## 📷 Dashboard Preview
 
-<img width="1283" height="697" alt="Screenshot 2026-10-03 130531" src="https://github.com/user-attachments/assets/e4755d47-1577-4a74-a544-0305a0ef105c" />
+<img width="1575" height="712" alt="Screenshot 2026-10-03 130442" src="https://github.com/user-attachments/assets/12bae6d4-43a0-4f27-870e-da739d25a5d6" />
+<img width="1138" height="521" alt="Screenshot 2026-10-03 130502" src="https://github.com/user-attachments/assets/1c49d098-0721-4b04-95fc-e7a86d0d6135" />
+<img width="1283" height="697" alt="Screenshot 2026-10-03 130531" src="https://github.com/user-attachments/assets/a97897ef-0a0b-4ccd-a86f-0975af31fd69" />
+
 
 
 ## 📁 Project Structure
